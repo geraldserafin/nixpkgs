@@ -10479,6 +10479,11 @@
     githubId = 14135816;
     name = "Geraldo Nascimento";
   };
+  geraldserafin = {
+    github = "geraldserafin";
+    githubId = 61117794;
+    name = "Gerald Serafin";
+  };
   gerg-l = {
     email = "gregleyda@proton.me";
     github = "Gerg-L";
